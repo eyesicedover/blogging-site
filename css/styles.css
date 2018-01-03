@@ -1,0 +1,18 @@
+h1.special {
+  color: green;
+  text-align: center;
+}
+
+div.blog {
+  padding-left: 400px;
+  padding-right: 400px;
+  text-align: center;
+}
+
+div.about {
+  color: gray;
+  font-style: italic;
+}
+body {
+  background-color: lime;
+}
